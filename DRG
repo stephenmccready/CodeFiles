@@ -1,0 +1,739 @@
+001	Heart transplant or implant of heart assist system w MCC
+002	Heart transplant or implant of heart assist system w/o MCC
+003	ECMO or trach w MV 96+ hrs or PDX exc face, mouth & neck w maj O.R.
+004	Trach w MV 96+ hrs or PDX exc face, mouth & neck w/o maj O.R.
+005	Liver transplant w MCC or intestinal transplant
+006	Liver transplant w/o MCC
+007	Lung transplant
+008	Simultaneous pancreas/kidney transplant
+010	Pancreas transplant
+011	Tracheostomy for face,mouth & neck diagnoses w MCC
+012	Tracheostomy for face,mouth & neck diagnoses w CC
+013	Tracheostomy for face,mouth & neck diagnoses w/o CC/MCC
+014	Allogeneic bone marrow transplant
+015	Autologous bone marrow transplant
+020	Intracranial vascular procedures w PDX hemorrhage w MCC
+021	Intracranial vascular procedures w PDX hemorrhage w CC
+022	Intracranial vascular procedures w PDX hemorrhage w/o CC/MCC
+023	Cranio w major dev impl/acute complex CNS PDX w MCC or chemo implant
+024	Cranio w major dev impl/acute complex CNS PDX w/o MCC
+025	Craniotomy & endovascular intracranial procedures w MCC
+026	Craniotomy & endovascular intracranial procedures w CC
+027	Craniotomy & endovascular intracranial procedures w/o CC/MCC
+028	Spinal procedures w MCC
+029	Spinal procedures w CC or spinal neurostimulators
+030	Spinal procedures w/o CC/MCC
+031	Ventricular shunt procedures w MCC
+032	Ventricular shunt procedures w CC
+033	Ventricular shunt procedures w/o CC/MCC
+034	Carotid artery stent procedure w MCC
+035	Carotid artery stent procedure w CC
+036	Carotid artery stent procedure w/o CC/MCC
+037	Extracranial procedures w MCC
+038	Extracranial procedures w CC
+039	Extracranial procedures w/o CC/MCC
+040	Periph/cranial nerve & other nerv syst proc w MCC
+041	Periph/cranial nerve & other nerv syst proc w CC or periph neurostim
+042	Periph/cranial nerve & other nerv syst proc w/o CC/MCC
+052	Spinal disorders & injuries w CC/MCC
+053	Spinal disorders & injuries w/o CC/MCC
+054	Nervous system neoplasms w MCC
+055	Nervous system neoplasms w/o MCC
+056	Degenerative nervous system disorders w MCC
+057	Degenerative nervous system disorders w/o MCC
+058	Multiple sclerosis & cerebellar ataxia w MCC
+059	Multiple sclerosis & cerebellar ataxia w CC
+060	Multiple sclerosis & cerebellar ataxia w/o CC/MCC
+061	Acute ischemic stroke w use of thrombolytic agent w MCC
+062	Acute ischemic stroke w use of thrombolytic agent w CC
+063	Acute ischemic stroke w use of thrombolytic agent w/o CC/MCC
+064	Intracranial hemorrhage or cerebral infarction w MCC
+065	Intracranial hemorrhage or cerebral infarction w CC
+066	Intracranial hemorrhage or cerebral infarction w/o CC/MCC
+067	Nonspecific cva & precerebral occlusion w/o infarct w MCC
+068	Nonspecific cva & precerebral occlusion w/o infarct w/o MCC
+069	Transient ischemia
+070	Nonspecific cerebrovascular disorders w MCC
+071	Nonspecific cerebrovascular disorders w CC
+072	Nonspecific cerebrovascular disorders w/o CC/MCC
+073	Cranial & peripheral nerve disorders w MCC
+074	Cranial & peripheral nerve disorders w/o MCC
+075	Viral meningitis w CC/MCC
+076	Viral meningitis w/o CC/MCC
+077	Hypertensive encephalopathy w MCC
+078	Hypertensive encephalopathy w CC
+079	Hypertensive encephalopathy w/o CC/MCC
+080	Nontraumatic stupor & coma w MCC
+081	Nontraumatic stupor & coma w/o MCC
+082	Traumatic stupor & coma, coma >1 hr w MCC
+083	Traumatic stupor & coma, coma >1 hr w CC
+084	Traumatic stupor & coma, coma >1 hr w/o CC/MCC
+085	Traumatic stupor & coma, coma <1 hr w MCC
+086	Traumatic stupor & coma, coma <1 hr w CC
+087	Traumatic stupor & coma, coma <1 hr w/o CC/MCC
+088	Concussion w MCC
+089	Concussion w CC
+090	Concussion w/o CC/MCC
+091	Other disorders of nervous system w MCC
+092	Other disorders of nervous system w CC
+093	Other disorders of nervous system w/o CC/MCC
+094	Bacterial & tuberculous infections of nervous system w MCC
+095	Bacterial & tuberculous infections of nervous system w CC
+096	Bacterial & tuberculous infections of nervous system w/o CC/MCC
+097	Non-bacterial infect of nervous sys exc viral meningitis w MCC
+098	Non-bacterial infect of nervous sys exc viral meningitis w CC
+099	Non-bacterial infect of nervous sys exc viral meningitis w/o CC/MCC
+100	Seizures w MCC
+101	Seizures w/o MCC
+102	Headaches w MCC
+103	Headaches w/o MCC
+113	Orbital procedures w CC/MCC
+114	Orbital procedures w/o CC/MCC
+115	Extraocular procedures except orbit
+116	Intraocular procedures w CC/MCC
+117	Intraocular procedures w/o CC/MCC
+121	Acute major eye infections w CC/MCC
+122	Acute major eye infections w/o CC/MCC
+123	Neurological eye disorders
+124	Other disorders of the eye w MCC
+125	Other disorders of the eye w/o MCC
+129	Major head & neck procedures w CC/MCC or major device
+130	Major head & neck procedures w/o CC/MCC
+131	Cranial/facial procedures w CC/MCC
+132	Cranial/facial procedures w/o CC/MCC
+133	Other ear, nose, mouth & throat O.R. procedures w CC/MCC
+134	Other ear, nose, mouth & throat O.R. procedures w/o CC/MCC
+135	Sinus & mastoid procedures w CC/MCC
+136	Sinus & mastoid procedures w/o CC/MCC
+137	Mouth procedures w CC/MCC
+138	Mouth procedures w/o CC/MCC
+139	Salivary gland procedures
+146	Ear, nose, mouth & throat malignancy w MCC
+147	Ear, nose, mouth & throat malignancy w CC
+148	Ear, nose, mouth & throat malignancy w/o CC/MCC
+149	Dysequilibrium
+150	Epistaxis w MCC
+151	Epistaxis w/o MCC
+152	Otitis media & URI w MCC
+153	Otitis media & URI w/o MCC
+154	Other ear, nose, mouth & throat diagnoses w MCC
+155	Other ear, nose, mouth & throat diagnoses w CC
+156	Other ear, nose, mouth & throat diagnoses w/o CC/MCC
+157	Dental & Oral Diseases w MCC
+158	Dental & Oral Diseases w CC
+159	Dental & Oral Diseases w/o CC/MCC
+163	Major chest procedures w MCC
+164	Major chest procedures w CC
+165	Major chest procedures w/o CC/MCC
+166	Other resp system O.R. procedures w MCC
+167	Other resp system O.R. procedures w CC
+168	Other resp system O.R. procedures w/o CC/MCC
+175	Pulmonary embolism w MCC
+176	Pulmonary embolism w/o MCC
+177	Respiratory infections & inflammations w MCC
+178	Respiratory infections & inflammations w CC
+179	Respiratory infections & inflammations w/o CC/MCC
+180	Respiratory neoplasms w MCC
+181	Respiratory neoplasms w CC
+182	Respiratory neoplasms w/o CC/MCC
+183	Major chest trauma w MCC
+184	Major chest trauma w CC
+185	Major chest trauma w/o CC/MCC
+186	Pleural effusion w MCC
+187	Pleural effusion w CC
+188	Pleural effusion w/o CC/MCC
+189	Pulmonary edema & respiratory failure
+190	Chronic obstructive pulmonary disease w MCC
+191	Chronic obstructive pulmonary disease w CC
+192	Chronic obstructive pulmonary disease w/o CC/MCC
+193	Simple pneumonia & pleurisy w MCC
+194	Simple pneumonia & pleurisy w CC
+195	Simple pneumonia & pleurisy w/o CC/MCC
+196	Interstitial lung disease w MCC
+197	Interstitial lung disease w CC
+198	Interstitial lung disease w/o CC/MCC
+199	Pneumothorax w MCC
+200	Pneumothorax w CC
+201	Pneumothorax w/o CC/MCC
+202	Bronchitis & asthma w CC/MCC
+203	Bronchitis & asthma w/o CC/MCC
+204	Respiratory signs & symptoms
+205	Other respiratory system diagnoses w MCC
+206	Other respiratory system diagnoses w/o MCC
+207	Respiratory system diagnosis w ventilator support 96+ hours
+208	Respiratory system diagnosis w ventilator support <96 hours
+215	Other heart assist system implant
+216	Cardiac valve & oth maj cardiothoracic proc w card cath w MCC
+217	Cardiac valve & oth maj cardiothoracic proc w card cath w CC
+218	Cardiac valve & oth maj cardiothoracic proc w card cath w/o CC/MCC
+219	Cardiac valve & oth maj cardiothoracic proc w/o card cath w MCC
+220	Cardiac valve & oth maj cardiothoracic proc w/o card cath w CC
+221	Cardiac valve & oth maj cardiothoracic proc w/o card cath w/o CC/MCC
+222	Cardiac defib implant w cardiac cath w AMI/HF/shock w MCC
+223	Cardiac defib implant w cardiac cath w AMI/HF/shock w/o MCC
+224	Cardiac defib implant w cardiac cath w/o AMI/HF/shock w MCC
+225	Cardiac defib implant w cardiac cath w/o AMI/HF/shock w/o MCC
+226	Cardiac defibrillator implant w/o cardiac cath w MCC
+227	Cardiac defibrillator implant w/o cardiac cath w/o MCC
+228	Other cardiothoracic procedures w MCC
+229	Other cardiothoracic procedures w CC
+230	Other cardiothoracic procedures w/o CC/MCC
+231	Coronary bypass w PTCA w MCC
+232	Coronary bypass w PTCA w/o MCC
+233	Coronary bypass w cardiac cath w MCC
+234	Coronary bypass w cardiac cath w/o MCC
+235	Coronary bypass w/o cardiac cath w MCC
+236	Coronary bypass w/o cardiac cath w/o MCC
+237	Major cardiovasc procedures w MCC or thoracic aortic aneurysm repair
+238	Major cardiovasc procedures w/o MCC
+239	Amputation for circ sys disorders exc upper limb & toe w MCC
+240	Amputation for circ sys disorders exc upper limb & toe w CC
+241	Amputation for circ sys disorders exc upper limb & toe w/o CC/MCC
+242	Permanent cardiac pacemaker implant w MCC
+243	Permanent cardiac pacemaker implant w CC
+244	Permanent cardiac pacemaker implant w/o CC/MCC
+245	AICD generator procedures
+246	Perc cardiovasc proc w drug-eluting stent w MCC or 4+ vessels/stents
+247	Perc cardiovasc proc w drug-eluting stent w/o MCC
+248	Perc cardiovasc proc w non-drug-eluting stent w MCC or 4+ ves/stents
+249	Perc cardiovasc proc w non-drug-eluting stent w/o MCC
+250	Perc cardiovasc proc w/o coronary artery stent w MCC
+251	Perc cardiovasc proc w/o coronary artery stent w/o MCC
+252	Other vascular procedures w MCC
+253	Other vascular procedures w CC
+254	Other vascular procedures w/o CC/MCC
+255	Upper limb & toe amputation for circ system disorders w MCC
+256	Upper limb & toe amputation for circ system disorders w CC
+257	Upper limb & toe amputation for circ system disorders w/o CC/MCC
+258	Cardiac pacemaker device replacement w MCC
+259	Cardiac pacemaker device replacement w/o MCC
+260	Cardiac pacemaker revision except device replacement w MCC
+261	Cardiac pacemaker revision except device replacement w CC
+262	Cardiac pacemaker revision except device replacement w/o CC/MCC
+263	Vein ligation & stripping
+264	Other circulatory system O.R. procedures
+265	AICD lead procedures
+280	Acute myocardial infarction, discharged alive w MCC
+281	Acute myocardial infarction, discharged alive w CC
+282	Acute myocardial infarction, discharged alive w/o CC/MCC
+283	Acute myocardial infarction, expired w MCC
+284	Acute myocardial infarction, expired w CC
+285	Acute myocardial infarction, expired w/o CC/MCC
+286	Circulatory disorders except AMI, w card cath w MCC
+287	Circulatory disorders except AMI, w card cath w/o MCC
+288	Acute & subacute endocarditis w MCC
+289	Acute & subacute endocarditis w CC
+290	Acute & subacute endocarditis w/o CC/MCC
+291	Heart failure & shock w MCC
+292	Heart failure & shock w CC
+293	Heart failure & shock w/o CC/MCC
+294	Deep vein thrombophlebitis w CC/MCC
+295	Deep vein thrombophlebitis w/o CC/MCC
+296	Cardiac arrest, unexplained w MCC
+297	Cardiac arrest, unexplained w CC
+298	Cardiac arrest, unexplained w/o CC/MCC
+299	Peripheral vascular disorders w MCC
+300	Peripheral vascular disorders w CC
+301	Peripheral vascular disorders w/o CC/MCC
+302	Atherosclerosis w MCC
+303	Atherosclerosis w/o MCC
+304	Hypertension w MCC
+305	Hypertension w/o MCC
+306	Cardiac congenital & valvular disorders w MCC
+307	Cardiac congenital & valvular disorders w/o MCC
+308	Cardiac arrhythmia & conduction disorders w MCC
+309	Cardiac arrhythmia & conduction disorders w CC
+310	Cardiac arrhythmia & conduction disorders w/o CC/MCC
+311	Angina pectoris
+312	Syncope & collapse
+313	Chest pain
+314	Other circulatory system diagnoses w MCC
+315	Other circulatory system diagnoses w CC
+316	Other circulatory system diagnoses w/o CC/MCC
+326	Stomach, esophageal & duodenal proc w MCC
+327	Stomach, esophageal & duodenal proc w CC
+328	Stomach, esophageal & duodenal proc w/o CC/MCC
+329	Major small & large bowel procedures w MCC
+330	Major small & large bowel procedures w CC
+331	Major small & large bowel procedures w/o CC/MCC
+332	Rectal resection w MCC
+333	Rectal resection w CC
+334	Rectal resection w/o CC/MCC
+335	Peritoneal adhesiolysis w MCC
+336	Peritoneal adhesiolysis w CC
+337	Peritoneal adhesiolysis w/o CC/MCC
+338	Appendectomy w complicated principal diag w MCC
+339	Appendectomy w complicated principal diag w CC
+340	Appendectomy w complicated principal diag w/o CC/MCC
+341	Appendectomy w/o complicated principal diag w MCC
+342	Appendectomy w/o complicated principal diag w CC
+343	Appendectomy w/o complicated principal diag w/o CC/MCC
+344	Minor small & large bowel procedures w MCC
+345	Minor small & large bowel procedures w CC
+346	Minor small & large bowel procedures w/o CC/MCC
+347	Anal & stomal procedures w MCC
+348	Anal & stomal procedures w CC
+349	Anal & stomal procedures w/o CC/MCC
+350	Inguinal & femoral hernia procedures w MCC
+351	Inguinal & femoral hernia procedures w CC
+352	Inguinal & femoral hernia procedures w/o CC/MCC
+353	Hernia procedures except inguinal & femoral w MCC
+354	Hernia procedures except inguinal & femoral w CC
+355	Hernia procedures except inguinal & femoral w/o CC/MCC
+356	Other digestive system O.R. procedures w MCC
+357	Other digestive system O.R. procedures w CC
+358	Other digestive system O.R. procedures w/o CC/MCC
+368	Major esophageal disorders w MCC
+369	Major esophageal disorders w CC
+370	Major esophageal disorders w/o CC/MCC
+371	Major gastrointestinal disorders & peritoneal infections w MCC
+372	Major gastrointestinal disorders & peritoneal infections w CC
+373	Major gastrointestinal disorders & peritoneal infections w/o CC/MCC
+374	Digestive malignancy w MCC
+375	Digestive malignancy w CC
+376	Digestive malignancy w/o CC/MCC
+377	G.I. hemorrhage w MCC
+378	G.I. hemorrhage w CC
+379	G.I. hemorrhage w/o CC/MCC
+380	Complicated peptic ulcer w MCC
+381	Complicated peptic ulcer w CC
+382	Complicated peptic ulcer w/o CC/MCC
+383	Uncomplicated peptic ulcer w MCC
+384	Uncomplicated peptic ulcer w/o MCC
+385	Inflammatory bowel disease w MCC
+386	Inflammatory bowel disease w CC
+387	Inflammatory bowel disease w/o CC/MCC
+388	G.I. obstruction w MCC
+389	G.I. obstruction w CC
+390	G.I. obstruction w/o CC/MCC
+391	Esophagitis, gastroent & misc digest disorders w MCC
+392	Esophagitis, gastroent & misc digest disorders w/o MCC
+393	Other digestive system diagnoses w MCC
+394	Other digestive system diagnoses w CC
+395	Other digestive system diagnoses w/o CC/MCC
+405	Pancreas, liver & shunt procedures w MCC
+406	Pancreas, liver & shunt procedures w CC
+407	Pancreas, liver & shunt procedures w/o CC/MCC
+408	Biliary tract proc except only cholecyst w or w/o c.d.e. w MCC
+409	Biliary tract proc except only cholecyst w or w/o c.d.e. w CC
+410	Biliary tract proc except only cholecyst w or w/o c.d.e. w/o CC/MCC
+411	Cholecystectomy w c.d.e. w MCC
+412	Cholecystectomy w c.d.e. w CC
+413	Cholecystectomy w c.d.e. w/o CC/MCC
+414	Cholecystectomy except by laparoscope w/o c.d.e. w MCC
+415	Cholecystectomy except by laparoscope w/o c.d.e. w CC
+416	Cholecystectomy except by laparoscope w/o c.d.e. w/o CC/MCC
+417	Laparoscopic cholecystectomy w/o c.d.e. w MCC
+418	Laparoscopic cholecystectomy w/o c.d.e. w CC
+419	Laparoscopic cholecystectomy w/o c.d.e. w/o CC/MCC
+420	Hepatobiliary diagnostic procedures w MCC
+421	Hepatobiliary diagnostic procedures w CC
+422	Hepatobiliary diagnostic procedures w/o CC/MCC
+423	Other hepatobiliary or pancreas O.R. procedures w MCC
+424	Other hepatobiliary or pancreas O.R. procedures w CC
+425	Other hepatobiliary or pancreas O.R. procedures w/o CC/MCC
+432	Cirrhosis & alcoholic hepatitis w MCC
+433	Cirrhosis & alcoholic hepatitis w CC
+434	Cirrhosis & alcoholic hepatitis w/o CC/MCC
+435	Malignancy of hepatobiliary system or pancreas w MCC
+436	Malignancy of hepatobiliary system or pancreas w CC
+437	Malignancy of hepatobiliary system or pancreas w/o CC/MCC
+438	Disorders of pancreas except malignancy w MCC
+439	Disorders of pancreas except malignancy w CC
+440	Disorders of pancreas except malignancy w/o CC/MCC
+441	Disorders of liver except malig,cirr,alc hepa w MCC
+442	Disorders of liver except malig,cirr,alc hepa w CC
+443	Disorders of liver except malig,cirr,alc hepa w/o CC/MCC
+444	Disorders of the biliary tract w MCC
+445	Disorders of the biliary tract w CC
+446	Disorders of the biliary tract w/o CC/MCC
+453	Combined anterior/posterior spinal fusion w MCC
+454	Combined anterior/posterior spinal fusion w CC
+455	Combined anterior/posterior spinal fusion w/o CC/MCC
+456	Spinal fus exc cerv w spinal curv/malig/infec or ext fus w MCC
+457	Spinal fus exc cerv w spinal curv/malig/infec or ext fus w CC
+458	Spinal fus exc cerv w spinal curv/malig/infec or ext fus w/o CC/MCC
+459	Spinal fusion except cervical w MCC
+460	Spinal fusion except cervical w/o MCC
+461	Bilateral or multiple major joint procs of lower extremity w MCC
+462	Bilateral or multiple major joint procs of lower extremity w/o MCC
+463	Wnd debrid & skn grft exc hand, for musculo-conn tiss dis w MCC
+464	Wnd debrid & skn grft exc hand, for musculo-conn tiss dis w CC
+465	Wnd debrid & skn grft exc hand, for musculo-conn tiss dis w/o CC/MCC
+466	Revision of hip or knee replacement w MCC
+467	Revision of hip or knee replacement w CC
+468	Revision of hip or knee replacement w/o CC/MCC
+469	Major joint replacement or reattachment of lower extremity w MCC
+470	Major joint replacement or reattachment of lower extremity w/o MCC
+471	Cervical spinal fusion w MCC
+472	Cervical spinal fusion w CC
+473	Cervical spinal fusion w/o CC/MCC
+474	Amputation for musculoskeletal sys & conn tissue dis w MCC
+475	Amputation for musculoskeletal sys & conn tissue dis w CC
+476	Amputation for musculoskeletal sys & conn tissue dis w/o CC/MCC
+477	Biopsies of musculoskeletal system & connective tissue w MCC
+478	Biopsies of musculoskeletal system & connective tissue w CC
+479	Biopsies of musculoskeletal system & connective tissue w/o CC/MCC
+480	Hip & femur procedures except major joint w MCC
+481	Hip & femur procedures except major joint w CC
+482	Hip & femur procedures except major joint w/o CC/MCC
+483	Major joint & limb reattachment proc of upper extremity w CC/MCC
+484	Major joint & limb reattachment proc of upper extremity w/o CC/MCC
+485	Knee procedures w pdx of infection w MCC
+486	Knee procedures w pdx of infection w CC
+487	Knee procedures w pdx of infection w/o CC/MCC
+488	Knee procedures w/o pdx of infection w CC/MCC
+489	Knee procedures w/o pdx of infection w/o CC/MCC
+490	Back & neck proc exc spinal fusion w CC/MCC or disc device/neurostim
+491	Back & neck proc exc spinal fusion w/o CC/MCC
+492	Lower extrem & humer proc except hip,foot,femur w MCC
+493	Lower extrem & humer proc except hip,foot,femur w CC
+494	Lower extrem & humer proc except hip,foot,femur w/o CC/MCC
+495	Local excision & removal int fix devices exc hip & femur w MCC
+496	Local excision & removal int fix devices exc hip & femur w CC
+497	Local excision & removal int fix devices exc hip & femur w/o CC/MCC
+498	Local excision & removal int fix devices of hip & femur w CC/MCC
+499	Local excision & removal int fix devices of hip & femur w/o CC/MCC
+500	Soft tissue procedures w MCC
+501	Soft tissue procedures w CC
+502	Soft tissue procedures w/o CC/MCC
+503	Foot procedures w MCC
+504	Foot procedures w CC
+505	Foot procedures w/o CC/MCC
+506	Major thumb or joint procedures
+507	Major shoulder or elbow joint procedures w CC/MCC
+508	Major shoulder or elbow joint procedures w/o CC/MCC
+509	Arthroscopy
+510	Shoulder,elbow or forearm proc,exc major joint proc w MCC
+511	Shoulder,elbow or forearm proc,exc major joint proc w CC
+512	Shoulder,elbow or forearm proc,exc major joint proc w/o CC/MCC
+513	Hand or wrist proc, except major thumb or joint proc w CC/MCC
+514	Hand or wrist proc, except major thumb or joint proc w/o CC/MCC
+515	Other musculoskelet sys & conn tiss O.R. proc w MCC
+516	Other musculoskelet sys & conn tiss O.R. proc w CC
+517	Other musculoskelet sys & conn tiss O.R. proc w/o CC/MCC
+533	Fractures of femur w MCC
+534	Fractures of femur w/o MCC
+535	Fractures of hip & pelvis w MCC
+536	Fractures of hip & pelvis w/o MCC
+537	Sprains, strains, & dislocations of hip, pelvis & thigh w CC/MCC
+538	Sprains, strains, & dislocations of hip, pelvis & thigh w/o CC/MCC
+539	Osteomyelitis w MCC
+540	Osteomyelitis w CC
+541	Osteomyelitis w/o CC/MCC
+542	Pathological fractures & musculoskelet & conn tiss malig w MCC
+543	Pathological fractures & musculoskelet & conn tiss malig w CC
+544	Pathological fractures & musculoskelet & conn tiss malig w/o CC/MCC
+545	Connective tissue disorders w MCC
+546	Connective tissue disorders w CC
+547	Connective tissue disorders w/o CC/MCC
+548	Septic arthritis w MCC
+549	Septic arthritis w CC
+550	Septic arthritis w/o CC/MCC
+551	Medical back problems w MCC
+552	Medical back problems w/o MCC
+553	Bone diseases & arthropathies w MCC
+554	Bone diseases & arthropathies w/o MCC
+555	Signs & symptoms of musculoskeletal system & conn tissue w MCC
+556	Signs & symptoms of musculoskeletal system & conn tissue w/o MCC
+557	Tendonitis, myositis & bursitis w MCC
+558	Tendonitis, myositis & bursitis w/o MCC
+559	Aftercare, musculoskeletal system & connective tissue w MCC
+560	Aftercare, musculoskeletal system & connective tissue w CC
+561	Aftercare, musculoskeletal system & connective tissue w/o CC/MCC
+562	Fx, sprn, strn & disl except femur, hip, pelvis & thigh w MCC
+563	Fx, sprn, strn & disl except femur, hip, pelvis & thigh w/o MCC
+564	Other musculoskeletal sys & connective tissue diagnoses w MCC
+565	Other musculoskeletal sys & connective tissue diagnoses w CC
+566	Other musculoskeletal sys & connective tissue diagnoses w/o CC/MCC
+573	Skin graft &/or debrid for skn ulcer or cellulitis w MCC
+574	Skin graft &/or debrid for skn ulcer or cellulitis w CC
+575	Skin graft &/or debrid for skn ulcer or cellulitis w/o CC/MCC
+576	Skin graft &/or debrid exc for skin ulcer or cellulitis w MCC
+577	Skin graft &/or debrid exc for skin ulcer or cellulitis w CC
+578	Skin graft &/or debrid exc for skin ulcer or cellulitis w/o CC/MCC
+579	Other skin, subcut tiss & breast proc w MCC
+580	Other skin, subcut tiss & breast proc w CC
+581	Other skin, subcut tiss & breast proc w/o CC/MCC
+582	Mastectomy for malignancy w CC/MCC
+583	Mastectomy for malignancy w/o CC/MCC
+584	Breast biopsy, local excision & other breast procedures w CC/MCC
+585	Breast biopsy, local excision & other breast procedures w/o CC/MCC
+592	Skin ulcers w MCC
+593	Skin ulcers w CC
+594	Skin ulcers w/o CC/MCC
+595	Major skin disorders w MCC
+596	Major skin disorders w/o MCC
+597	Malignant breast disorders w MCC
+598	Malignant breast disorders w CC
+599	Malignant breast disorders w/o CC/MCC
+600	Non-malignant breast disorders w CC/MCC
+601	Non-malignant breast disorders w/o CC/MCC
+602	Cellulitis w MCC
+603	Cellulitis w/o MCC
+604	Trauma to the skin, subcut tiss & breast w MCC
+605	Trauma to the skin, subcut tiss & breast w/o MCC
+606	Minor skin disorders w MCC
+607	Minor skin disorders w/o MCC
+614	Adrenal & pituitary procedures w CC/MCC
+615	Adrenal & pituitary procedures w/o CC/MCC
+616	Amputat of lower limb for endocrine,nutrit,& metabol dis w MCC
+617	Amputat of lower limb for endocrine,nutrit,& metabol dis w CC
+618	Amputat of lower limb for endocrine,nutrit,& metabol dis w/o CC/MCC
+619	O.R. procedures for obesity w MCC
+620	O.R. procedures for obesity w CC
+621	O.R. procedures for obesity w/o CC/MCC
+622	Skin grafts & wound debrid for endoc, nutrit & metab dis w MCC
+623	Skin grafts & wound debrid for endoc, nutrit & metab dis w CC
+624	Skin grafts & wound debrid for endoc, nutrit & metab dis w/o CC/MCC
+625	Thyroid, parathyroid & thyroglossal procedures w MCC
+626	Thyroid, parathyroid & thyroglossal procedures w CC
+627	Thyroid, parathyroid & thyroglossal procedures w/o CC/MCC
+628	Other endocrine, nutrit & metab O.R. proc w MCC
+629	Other endocrine, nutrit & metab O.R. proc w CC
+630	Other endocrine, nutrit & metab O.R. proc w/o CC/MCC
+637	Diabetes w MCC
+638	Diabetes w CC
+639	Diabetes w/o CC/MCC
+640	Nutritional & misc metabolic disorders w MCC
+641	Nutritional & misc metabolic disorders w/o MCC
+642	Inborn errors of metabolism
+643	Endocrine disorders w MCC
+644	Endocrine disorders w CC
+645	Endocrine disorders w/o CC/MCC
+652	Kidney transplant
+653	Major bladder procedures w MCC
+654	Major bladder procedures w CC
+655	Major bladder procedures w/o CC/MCC
+656	Kidney & ureter procedures for neoplasm w MCC
+657	Kidney & ureter procedures for neoplasm w CC
+658	Kidney & ureter procedures for neoplasm w/o CC/MCC
+659	Kidney & ureter procedures for non-neoplasm w MCC
+660	Kidney & ureter procedures for non-neoplasm w CC
+661	Kidney & ureter procedures for non-neoplasm w/o CC/MCC
+662	Minor bladder procedures w MCC
+663	Minor bladder procedures w CC
+664	Minor bladder procedures w/o CC/MCC
+665	Prostatectomy w MCC
+666	Prostatectomy w CC
+667	Prostatectomy w/o CC/MCC
+668	Transurethral procedures w MCC
+669	Transurethral procedures w CC
+670	Transurethral procedures w/o CC/MCC
+671	Urethral procedures w CC/MCC
+672	Urethral procedures w/o CC/MCC
+673	Other kidney & urinary tract procedures w MCC
+674	Other kidney & urinary tract procedures w CC
+675	Other kidney & urinary tract procedures w/o CC/MCC
+682	Renal failure w MCC
+683	Renal failure w CC
+684	Renal failure w/o CC/MCC
+685	Admit for renal dialysis
+686	Kidney & urinary tract neoplasms w MCC
+687	Kidney & urinary tract neoplasms w CC
+688	Kidney & urinary tract neoplasms w/o CC/MCC
+689	Kidney & urinary tract infections w MCC
+690	Kidney & urinary tract infections w/o MCC
+691	Urinary stones w esw lithotripsy w CC/MCC
+692	Urinary stones w esw lithotripsy w/o CC/MCC
+693	Urinary stones w/o esw lithotripsy w MCC
+694	Urinary stones w/o esw lithotripsy w/o MCC
+695	Kidney & urinary tract signs & symptoms w MCC
+696	Kidney & urinary tract signs & symptoms w/o MCC
+697	Urethral stricture
+698	Other kidney & urinary tract diagnoses w MCC
+699	Other kidney & urinary tract diagnoses w CC
+700	Other kidney & urinary tract diagnoses w/o CC/MCC
+707	Major male pelvic procedures w CC/MCC
+708	Major male pelvic procedures w/o CC/MCC
+709	Penis procedures w CC/MCC
+710	Penis procedures w/o CC/MCC
+711	Testes procedures w CC/MCC
+712	Testes procedures w/o CC/MCC
+713	Transurethral prostatectomy w CC/MCC
+714	Transurethral prostatectomy w/o CC/MCC
+715	Other male reproductive system O.R. proc for malignancy w CC/MCC
+716	Other male reproductive system O.R. proc for malignancy w/o CC/MCC
+717	Other male reproductive system O.R. proc exc malignancy w CC/MCC
+718	Other male reproductive system O.R. proc exc malignancy w/o CC/MCC
+722	Malignancy, male reproductive system w MCC
+723	Malignancy, male reproductive system w CC
+724	Malignancy, male reproductive system w/o CC/MCC
+725	Benign prostatic hypertrophy w MCC
+726	Benign prostatic hypertrophy w/o MCC
+727	Inflammation of the male reproductive system w MCC
+728	Inflammation of the male reproductive system w/o MCC
+729	Other male reproductive system diagnoses w CC/MCC
+730	Other male reproductive system diagnoses w/o CC/MCC
+734	Pelvic evisceration, rad hysterectomy & rad vulvectomy w CC/MCC
+735	Pelvic evisceration, rad hysterectomy & rad vulvectomy w/o CC/MCC
+736	Uterine & adnexa proc for ovarian or adnexal malignancy w MCC
+737	Uterine & adnexa proc for ovarian or adnexal malignancy w CC
+738	Uterine & adnexa proc for ovarian or adnexal malignancy w/o CC/MCC
+739	Uterine,adnexa proc for non-ovarian/adnexal malig w MCC
+740	Uterine,adnexa proc for non-ovarian/adnexal malig w CC
+741	Uterine,adnexa proc for non-ovarian/adnexal malig w/o CC/MCC
+742	Uterine & adnexa proc for non-malignancy w CC/MCC
+743	Uterine & adnexa proc for non-malignancy w/o CC/MCC
+744	D&C, conization, laparoscopy & tubal interruption w CC/MCC
+745	D&C, conization, laparoscopy & tubal interruption w/o CC/MCC
+746	Vagina, cervix & vulva procedures w CC/MCC
+747	Vagina, cervix & vulva procedures w/o CC/MCC
+748	Female reproductive system reconstructive procedures
+749	Other female reproductive system O.R. procedures w CC/MCC
+750	Other female reproductive system O.R. procedures w/o CC/MCC
+754	Malignancy, female reproductive system w MCC
+755	Malignancy, female reproductive system w CC
+756	Malignancy, female reproductive system w/o CC/MCC
+757	Infections, female reproductive system w MCC
+758	Infections, female reproductive system w CC
+759	Infections, female reproductive system w/o CC/MCC
+760	Menstrual & other female reproductive system disorders w CC/MCC
+761	Menstrual & other female reproductive system disorders w/o CC/MCC
+765	Cesarean section w CC/MCC
+766	Cesarean section w/o CC/MCC
+767	Vaginal delivery w sterilization &/or D&C
+768	Vaginal delivery w O.R. proc except steril &/or D&C
+769	Postpartum & post abortion diagnoses w O.R. procedure
+770	Abortion w D&C, aspiration curettage or hysterotomy
+774	Vaginal delivery w complicating diagnoses
+775	Vaginal delivery w/o complicating diagnoses
+776	Postpartum & post abortion diagnoses w/o O.R. procedure
+777	Ectopic pregnancy
+778	Threatened abortion
+779	Abortion w/o D&C
+780	False labor
+781	Other antepartum diagnoses w medical complications
+782	Other antepartum diagnoses w/o medical complications
+790	Extreme immaturity or respiratory distress syndrome, neonate
+791	Prematurity w major problems
+792	Prematurity w/o major problems
+793	Full term neonate w major problems
+794	Neonate w other significant problems
+795	Normal newborn
+799	Splenectomy w MCC
+800	Splenectomy w CC
+801	Splenectomy w/o CC/MCC
+802	Other O.R. proc of the blood & blood forming organs w MCC
+803	Other O.R. proc of the blood & blood forming organs w CC
+804	Other O.R. proc of the blood & blood forming organs w/o CC/MCC
+808	Major hematol/immun diag exc sickle cell crisis & coagul w MCC
+809	Major hematol/immun diag exc sickle cell crisis & coagul w CC
+810	Major hematol/immun diag exc sickle cell crisis & coagul w/o CC/MCC
+811	Red blood cell disorders w MCC
+812	Red blood cell disorders w/o MCC
+813	Coagulation disorders
+814	Reticuloendothelial & immunity disorders w MCC
+815	Reticuloendothelial & immunity disorders w CC
+816	Reticuloendothelial & immunity disorders w/o CC/MCC
+820	Lymphoma & leukemia w major O.R. procedure w MCC
+821	Lymphoma & leukemia w major O.R. procedure w CC
+822	Lymphoma & leukemia w major O.R. procedure w/o CC/MCC
+823	Lymphoma & non-acute leukemia w other O.R. proc w MCC
+824	Lymphoma & non-acute leukemia w other O.R. proc w CC
+825	Lymphoma & non-acute leukemia w other O.R. proc w/o CC/MCC
+826	Myeloprolif disord or poorly diff neopl w maj O.R. proc w MCC
+827	Myeloprolif disord or poorly diff neopl w maj O.R. proc w CC
+828	Myeloprolif disord or poorly diff neopl w maj O.R. proc w/o CC/MCC
+829	Myeloprolif disord or poorly diff neopl w other O.R. proc w CC/MCC
+830	Myeloprolif disord or poorly diff neopl w other O.R. proc w/o CC/MCC
+837	Chemo w acute leukemia as sdx or w high dose chemo agent w MCC
+838	Chemo w acute leukemia as sdx w CC or high dose chemo agent
+839	Chemo w acute leukemia as sdx w/o CC/MCC
+843	Other myeloprolif dis or poorly diff neopl diag w MCC
+844	Other myeloprolif dis or poorly diff neopl diag w CC
+845	Other myeloprolif dis or poorly diff neopl diag w/o CC/MCC
+846	Chemotherapy w/o acute leukemia as secondary diagnosis w MCC
+847	Chemotherapy w/o acute leukemia as secondary diagnosis w CC
+848	Chemotherapy w/o acute leukemia as secondary diagnosis w/o CC/MCC
+849	Radiotherapy
+853	Infectious & parasitic diseases w O.R. procedure w MCC
+854	Infectious & parasitic diseases w O.R. procedure w CC
+855	Infectious & parasitic diseases w O.R. procedure w/o CC/MCC
+856	Postoperative or post-traumatic infections w O.R. proc w MCC
+857	Postoperative or post-traumatic infections w O.R. proc w CC
+858	Postoperative or post-traumatic infections w O.R. proc w/o CC/MCC
+862	Postoperative & post-traumatic infections w MCC
+863	Postoperative & post-traumatic infections w/o MCC
+864	Fever
+865	Viral illness w MCC
+866	Viral illness w/o MCC
+867	Other infectious & parasitic diseases diagnoses w MCC
+868	Other infectious & parasitic diseases diagnoses w CC
+869	Other infectious & parasitic diseases diagnoses w/o CC/MCC
+870	Septicemia or severe sepsis w MV 96+ hours
+871	Septicemia or severe sepsis w/o MV 96+ hours w MCC
+872	Septicemia or severe sepsis w/o MV 96+ hours w/o MCC
+876	O.R. procedure w principal diagnoses of mental illness
+880	Acute adjustment reaction & psychosocial dysfunction
+881	Depressive neuroses
+882	Neuroses except depressive
+883	Disorders of personality & impulse control
+884	Organic disturbances & mental retardation
+885	Psychoses
+886	Behavioral & developmental disorders
+887	Other mental disorder diagnoses
+894	Alcohol/drug abuse or dependence, left ama
+895	Alcohol/drug abuse or dependence w rehabilitation therapy
+896	Alcohol/drug abuse or dependence w/o rehabilitation therapy w MCC
+897	Alcohol/drug abuse or dependence w/o rehabilitation therapy w/o MCC
+901	Wound debridements for injuries w MCC
+902	Wound debridements for injuries w CC
+903	Wound debridements for injuries w/o CC/MCC
+904	Skin grafts for injuries w CC/MCC
+905	Skin grafts for injuries w/o CC/MCC
+906	Hand procedures for injuries
+907	Other O.R. procedures for injuries w MCC
+908	Other O.R. procedures for injuries w CC
+909	Other O.R. procedures for injuries w/o CC/MCC
+913	Traumatic injury w MCC
+914	Traumatic injury w/o MCC
+915	Allergic reactions w MCC
+916	Allergic reactions w/o MCC
+917	Poisoning & toxic effects of drugs w MCC
+918	Poisoning & toxic effects of drugs w/o MCC
+919	Complications of treatment w MCC
+920	Complications of treatment w CC
+921	Complications of treatment w/o CC/MCC
+922	Other injury, poisoning & toxic effect diag w MCC
+923	Other injury, poisoning & toxic effect diag w/o MCC
+927	Extensive burns or full thickness burns w MV 96+ hrs w skin graft
+928	Full thickness burn w skin graft or inhal inj w CC/MCC
+929	Full thickness burn w skin graft or inhal inj w/o CC/MCC
+933	Extensive burns or full thickness burns w MV 96+ hrs w/o skin graft
+934	Full thickness burn w/o skin grft or inhal inj
+935	Non-extensive burns
+939	O.R. proc w diagnoses of other contact w health services w MCC
+940	O.R. proc w diagnoses of other contact w health services w CC
+941	O.R. proc w diagnoses of other contact w health services w/o CC/MCC
+945	Rehabilitation w CC/MCC
+946	Rehabilitation w/o CC/MCC
+947	Signs & symptoms w MCC
+948	Signs & symptoms w/o MCC
+949	Aftercare w CC/MCC
+950	Aftercare w/o CC/MCC
+951	Other factors influencing health status
+955	Craniotomy for multiple significant trauma
+956	Limb reattachment, hip & femur proc for multiple significant trauma
+957	Other O.R. procedures for multiple significant trauma w MCC
+958	Other O.R. procedures for multiple significant trauma w CC
+959	Other O.R. procedures for multiple significant trauma w/o CC/MCC
+963	Other multiple significant trauma w MCC
+964	Other multiple significant trauma w CC
+965	Other multiple significant trauma w/o CC/MCC
+969	HIV w extensive O.R. procedure w MCC
+970	HIV w extensive O.R. procedure w/o MCC
+974	HIV w major related condition w MCC
+975	HIV w major related condition w CC
+976	HIV w major related condition w/o CC/MCC
+977	HIV w or w/o other related condition
+981	Extensive O.R. procedure unrelated to principal diagnosis w MCC
+982	Extensive O.R. procedure unrelated to principal diagnosis w CC
+983	Extensive O.R. procedure unrelated to principal diagnosis w/o CC/MCC
+984	Prostatic O.R. procedure unrelated to principal diagnosis w MCC
+985	Prostatic O.R. procedure unrelated to principal diagnosis w CC
+986	Prostatic O.R. procedure unrelated to principal diagnosis w/o CC/MCC
+987	Non-extensive O.R. proc unrelated to principal diagnosis w MCC
+988	Non-extensive O.R. proc unrelated to principal diagnosis w CC
+989	Non-extensive O.R. proc unrelated to principal diagnosis w/o CC/MCC
+998	Principal diagnosis invalid as discharge diagnosis
