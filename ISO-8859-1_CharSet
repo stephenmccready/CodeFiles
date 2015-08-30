@@ -1,0 +1,82 @@
+US-KeyB Octal  Hex  Unicode  HTML       Detail
+Alt-"   \242   A2   U+00A2   &cent;     ¢  cent sign
+Alt-#   \243   A3   U+00A3   &pound;    £  Pound sign (British)
+Alt-$   \244   A4   U+20AC   &euro;     €  Euro sign (in ISO-8859-15)
+Alt-%   \245   A5   U+00A5   &yen;      ¥  Yen sign (Japanese)
+Alt-0   \260   B0   U+00B0   &deg;      °  degrees
+
+Alt-<   \274   BC   U+00BC   &frac14;   ¼  fraction one-quarter
+Alt-<   \274   BC   U+0152   &OElig;    Œ  OE ligature, French (in ISO-8859-15)
+Alt-=   \275   BD   U+00BD   &frac12;   ½  fraction one-half
+Alt-=   \275   BD   U+0153   &oelig;    œ  oe ligature, French (in ISO-8859-15)
+Alt->   \276   BE   U+00BE   &frac34;   ¾  fraction three-quarters
+Alt->   \276   BE   U+0178   &Yuml;     Ÿ  Y diaeresis, French (in ISO-8859-15)
+
+Alt-!   \241   A1   U+00A1   &iexcl;    ¡  upside-down exclamation mark
+Alt-+   \253   AB   U+00AB   &laquo;    «  close (or open) chevron-style quotes
+Alt-;   \273   BB   U+00BB   &raquo;    »  open (or close) chevron-style quotes
+Alt-?   \277   BF   U+00BF   &iquest;   ¿  upside-down question mark
+
+Alt-@   \300   C0   U+00C0   &Agrave;   À  capital A, grave accent
+Alt-A   \301   C1   U+00C1   &Aacute;   Á  capital A, acute accent
+Alt-B   \302   C2   U+00C2   &Acirc;    Â  capital A, circumflex accent
+Alt-C   \303   C3   U+00C3   &Atilde;   Ã  capital A, tilde
+Alt-D   \304   C4   U+00C4   &Auml;     Ä  capital A, umlaut mark
+Alt-E   \305   C5   U+00C5   &Aring;    Å  capital A, ring
+Alt-F   \306   C6   U+00C6   &AElig;    Æ  capital AE diphthong
+Alt-G   \307   C7   U+00C7   &Ccedil;   Ç  capital C, cedilla
+Alt-H   \310   C8   U+00C8   &Egrave;   È  capital E, grave accent
+Alt-I   \311   C9   U+00C9   &Eacute;   É  capital E, acute accent
+Alt-J   \312   CA   U+00CA   &Ecirc;    Ê  capital E, circumflex accent
+Alt-K   \313   CB   U+00CB   &Euml;     Ë  capital E, umlaut mark
+Alt-L   \314   CC   U+00CC   &Igrave;   Ì  capital I, grave accent
+Alt-M   \315   CD   U+00CD   &Iacute;   Í  capital I, acute accent
+Alt-N   \316   CE   U+00CE   &Icirc;    Î  capital I, circumflex accent
+Alt-O   \317   CF   U+00CF   &Iuml;     Ï  capital I, umlaut mark
+Alt-P   \320   D0   U+00D0   &ETH;      Ð  capital Eth, Icelandic
+Alt-Q   \321   D1   U+00D1   &Ntilde;   Ñ  capital N, tilde
+Alt-R   \322   D2   U+00D2   &Ograve;   Ò  capital O, grave accent
+Alt-S   \323   D3   U+00D3   &Oacute;   Ó  capital O, acute accent
+Alt-T   \324   D4   U+00D4   &Ocirc;    Ô  capital O, circumflex accent
+Alt-U   \325   D5   U+00D5   &Otilde;   Õ  capital O, tilde
+Alt-V   \326   D6   U+00D6   &Ouml;     Ö  capital O, umlaut mark
+Alt-X   \330   D8   U+00D8   &Oslash;   Ø  capital O, slash
+Alt-Y   \331   D9   U+00D9   &Ugrave;   Ù  capital U, grave accent
+Alt-Z   \332   DA   U+00DA   &Uacute;   Ú  capital U, acute accent
+Alt-[   \333   DB   U+00DB   &Ucirc;    Û  capital U, circumflex accent
+Alt-\   \334   DC   U+00DC   &Uuml;     Ü  capital U, umlaut mark
+Alt-]   \335   DD   U+00DD   &Yacute;   Ý  capital Y, acute accent
+Alt-^   \336   DE   U+00DE   &THORN;    Þ  capital THORN, Icelandic
+Alt-_   \337   DF   U+00DF   &szlig;    ß  sz ligature, German
+
+Alt-`   \340   E0   U+00E0   &agrave;   à  small a, grave accent
+Alt-a   \341   E1   U+00E1   &aacute;   á  small a, acute accent
+Alt-b   \342   E2   U+00E2   &acirc;    â  small a, circumflex accent
+Alt-c   \343   E3   U+00E3   &atilde;   ã  small a, tilde
+Alt-d   \344   E4   U+00E4   &auml;     ä  small a, umlaut mark
+Alt-e   \345   E5   U+00E5   &aring;    å  small a, ring
+Alt-f   \346   E6   U+00E6   &aelig;    æ  small ae diphthong
+Alt-g   \347   E7   U+00E7   &ccedil;   ç  small c, cedilla
+Alt-h   \350   E8   U+00E8   &egrave;   è  small e, grave accent
+Alt-i   \351   E9   U+00E9   &eacute;   é  small e, acute accent
+Alt-j   \352   EA   U+00EA   &ecirc;    ê  small e, circumflex accent
+Alt-k   \353   EB   U+00EB   &euml;     ë  small e, umlaut mark
+Alt-l   \354   EC   U+00EC   &igrave;   ì  small i, grave accent
+Alt-m   \355   ED   U+00ED   &iacute;   í  small i, acute accent
+Alt-n   \356   EE   U+00EE   &icirc;    î  small i, circumflex accent
+Alt-o   \357   EF   U+00EF   &iuml;     ï  small i, umlaut mark
+Alt-p   \360   F0   U+00F0   &eth;      ð  small eth, Icelandic
+Alt-q   \361   F1   U+00F1   &ntilde;   ñ  small n, tilde
+Alt-r   \362   F2   U+00F2   &ograve;   ò  small o, grave accent
+Alt-s   \363   F3   U+00F3   &oacute;   ó  small o, acute accent
+Alt-t   \364   F4   U+00F4   &ocirc;    ô  small o, circumflex accent
+Alt-u   \365   F5   U+00F5   &otilde;   õ  small o, tilde
+Alt-v   \366   F6   U+00F6   &ouml;     ö  small o, umlaut mark
+Alt-x   \370   F8   U+00F8   &oslash;   ø  small o, slash
+Alt-y   \371   F9   U+00F9   &ugrave;   ù  small u, grave accent
+Alt-z   \372   FA   U+00FA   &uacute;   ú  small u, acute accent
+Alt-{   \373   FB   U+00FB   &ucirc;    û  small u, circumflex accent
+Alt-|   \374   FC   U+00FC   &uuml;     ü  small u, umlaut mark
+Alt-}   \375   FD   U+00FD   &yacute;   ý  small y, acute accent
+Alt-~   \376   FE   U+00FE   &thorn;    þ  small thorn, Icelandic
+        \377   FF   U+00FF   &yuml;     ÿ  small y, umlaut mark
